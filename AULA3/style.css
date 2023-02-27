@@ -1,0 +1,15 @@
+
+.login div{
+
+}
+
+h1{
+    color: rgb(90, 139, 100);
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(40, 104, 79, 0.356);
+    width: 300px;
+    border: 15px solid green;
+    padding: 20px;
+    margin: 20px;
+}
