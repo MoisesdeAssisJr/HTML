@@ -1,0 +1,75 @@
+    
+    
+    td{
+        border: solid;
+    }
+
+    th{
+        font-size: 20px;
+        border: solid;
+    }
+
+    li {
+        list-style-type: none;
+      }
+
+    .faixa ul li {
+        display: inline-block;
+        padding-right: 4px;
+        font-weight: bold;
+        color: darkred;
+        margin-inline-start: inherit;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+
+
+    ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+        
+    }
+
+    h1{
+        color: white;
+        text-align: center;
+        background-color:brown;
+        
+    }
+
+    h3{
+        color: darkblue;
+        text-align: center;
+        font-size: 25px;
+        
+        
+    }
+
+    .pagamento body{
+        background-color: black;
+    }
+
+    body{
+        background-color: rgba(245, 245, 245, 0.781);
+    }
+
+    table{
+        margin: auto;
+    }
+
+    .btn button{
+        border:1px solid #25692A;
+        border-radius:4px;
+        display:inline-block;
+        cursor:pointer;
+        font-family:Verdana;
+        font-weight:bold;
+        font-size:13px;
+        padding:6px 10px;
+        text-decoration:none;
+        }
+
+
+
